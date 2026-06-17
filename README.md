@@ -3,7 +3,7 @@
 İnşaat projelerinde kullanılan masaüstü uygulamalar.
 
 ## Programlar
-- Taşeron Hakediş
+- İdari Hakediş
 - Pursantaj Yönetim
 - Şantiye Tutanak Yönetimi
 ## İndirme
